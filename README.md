@@ -10,13 +10,14 @@
 
 ---
 ## 시험 내용 목차
-### 1학기 중간고사 연습
-![ ](https://github.com/surrin1008/1grade/blob/main/image/middle%20ex1.jpg?raw=true)
-### 1학기 중간고사 
-![ ](https://github.com/surrin1008/1grade/blob/main/image/middle.jpg?raw=true)
-### 1학기 기말고사 연습 1
-![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex1.jpg?raw=true)
-### 1학기 기말고사 연습 2
-![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex2.jpg?raw=true)
-### 1학기 기말고사
-![ ](https://github.com/surrin1008/1grade/blob/main/image/final.jpg?raw=true)
+### 🥇중간고사
+
+|||
+| -------- | -------- |
+| ![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex1.jpg?raw=true) | ![ ](https://github.com/surrin1008/1grade/blob/main/image/middle.jpg?raw=true) |
+
+### 🥈기말고사
+|||
+| -------- | -------- |
+| ![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex1.jpg?raw=true) |![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex2.jpg?raw=true) |
+|![ ](https://github.com/surrin1008/1grade/blob/main/image/final.jpg?raw=true)| 
